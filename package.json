@@ -1,0 +1,19 @@
+{
+  "name": "homework-template",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^2.0.5"
+  },
+  "dependencies": {
+    "@thi.ng/imgui": "^0.2.61",
+    "dat.gui": "^0.7.7",
+    "gl-matrix": "^3.3.0",
+    "three": "^0.126.1",
+    "three-mtl-loader": "^1.0.2"
+  }
+}
